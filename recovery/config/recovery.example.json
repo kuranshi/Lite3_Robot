@@ -1,0 +1,12 @@
+{
+  "ssh_host": "robot",
+  "ssh_key": null,
+  "ros_setup": "/opt/ros/foxy/setup.bash",
+  "robot_workspace": "~/lite3_recovery_ws",
+  "dds_profile": null,
+  "ros_domain_id": 83,
+  "factory_root": "~/jy_exe",
+  "factory_ip": "192.0.2.10",
+  "factory_port": 43893,
+  "telemetry_port": 43897
+}

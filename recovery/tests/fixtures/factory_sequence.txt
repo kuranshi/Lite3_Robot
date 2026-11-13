@@ -1,0 +1,10 @@
+[2000-01-01 00:00:00.000.000] [INFO  ] [BasicMotion] Soft Emergency Pressed!!!
+[2000-01-01 00:00:00.100.000] [INFO  ] [BasicMotion] Robot is lose control
+[2000-01-01 00:00:01.000.000] [INFO  ] [BasicMotion] Robot is lose power, wait a moment to press [STAND UP BUTTON] to recover the posture!!!
+[2000-01-01 00:00:02.000.000] [INFO  ] [BasicMotion] Robot is waitting to stand up!!!
+[2000-01-01 00:00:03.000.000] [INFO  ] [BasicMotion] Robot is lose control
+[2000-01-01 00:00:04.000.000] [INFO  ] [BasicMotion] Robot is lose power, wait a moment to press [STAND UP BUTTON] to recover the posture!!!
+[2000-01-01 00:00:05.000.000] [INFO  ] [BasicMotion] stand_cmd....
+[2000-01-01 00:00:05.100.000] [INFO  ] [BasicMotion] Robot is recovering posture...
+[2000-01-01 00:00:05.500.000] [INFO  ] [BasicMotion] Recover Left!!!
+[2000-01-01 00:00:09.700.000] [INFO  ] [BasicMotion] Robot recovering posture succeed
